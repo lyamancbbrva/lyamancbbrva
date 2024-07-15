@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Laman Cabbarova!</h1>
 <h3 align="center">A passionate fullStack developer from Azerbaijan</h3>
 
+<img src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53_w200.gif" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laman-cabbarova-648228267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laman-cabbarova-648228267" height="30" width="40" /></a>
