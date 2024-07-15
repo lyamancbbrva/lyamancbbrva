@@ -1,6 +1,6 @@
  ![MasterHead](https://akfpartners.com//uploads/blog/full-stack-engineer.png)
 <h1 align="center">Hi 👋, I'm Laman Cabbarova!</h1>
-<h3 align="center">A passionate fUllStack developer from Azerbaijan</h3>
+<h3 align="center">A passionate fullStack developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
